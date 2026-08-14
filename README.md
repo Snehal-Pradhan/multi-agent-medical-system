@@ -121,7 +121,4 @@ Building this harness surfaced two real reliability issues, both since fixed:
 - Deploy with authentication for multi-user support
 - Move orchestration to deterministic planning to eliminate routing non-determinism
 
-## Author
-
-Debalina Chowdhury
-github.com/debalina-chowdhury
+#
